@@ -4,7 +4,7 @@ _...nice to see you!_
 
 My name is Johanna,
 
-in September last year I completed the three-months bootcamp to become a web developer at <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> neuefische GmbH</a>.<br>
+in September last year I completed the three-months bootcamp  at <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> neuefische GmbH</a> to become a web developer.<br>
 Before I decided to do the bootcamp, I was dedicated to horses and worked with them for round about four years.<br>
 After living in Ireland for two months, Corona spreaded and I had to come back to Germany. I had to get another job quickly, so I started work as an assistant of a physician at a doctor's office.<br>
 Through some projects with a friend, I was reminded of how much I enjoyed coding during my design assistant vocational training. That's when I started refreshing my knowledge and coding skills. The bootcamp was a great opportunity to start from.
